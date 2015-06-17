@@ -1,0 +1,5 @@
+solvespace (2015.06.15-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Joseph Lenox <lenox@lenneth.engr.siu.edu>  Tue, 16 Jun 2015 21:19:13 -0500
