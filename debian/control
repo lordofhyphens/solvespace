@@ -1,15 +1,15 @@
 Source: solvespace
-Section: unknown
+Section: graphics
 Priority: optional
-Maintainer: Joseph Lenox <lenox@lenneth.engr.siu.edu>
+Maintainer: Joseph Lenox <lenox.joseph@gmail.com>
 Build-Depends: debhelper (>= 9), autotools-dev
 Standards-Version: 3.9.5
-Homepage: <insert the upstream URL, if relevant>
+Homepage: http://solvespace.com/index.pl
 #Vcs-Git: git://anonscm.debian.org/collab-maint/solvespace.git
 #Vcs-Browser: http://anonscm.debian.org/?p=collab-maint/solvespace.git;a=summary
 
 Package: solvespace
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: A parametric modeler with a GUI.
+ Parametric modeler
